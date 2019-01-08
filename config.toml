@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Department of Macroeconomics", url = "https://www.diw.de/en/diw_01.c.100358.en/research_advice/macroeconomics_and_financial_markets/macroeconomics/macroeconomics.html" },{name="DIW Berlin", url="https://www.diw.de/en"} ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "akriwoluzky@diw.de"
