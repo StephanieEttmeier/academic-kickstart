@@ -14,10 +14,10 @@ subtitle = ""
 weight = 60
 
 +++
-**Past Teaching**
+**Transfer, Transfer, Transfer**
 
-* Applied Macroeconometrics (B.Sc. / M.Sc.)
-* Bayesian DSGE Model Estimation (Ph.D.)
+* 
+* Bayesian DSGE Model Estimation (Ph.D.) 
 * Dynamic Macroeconomics (M.Sc. / Ph.D.)
 * Interactions of Fiscal and Monetary Policy (M.Sc.)
 * Introduction into Quantitative Macroeconomics (B.Sc.)
