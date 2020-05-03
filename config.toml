@@ -82,7 +82,7 @@ enableGitInfo = false
 
   # Enable/disable 
   
-  in Contact widget.
+ # in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
   # a map provider below.
   # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
