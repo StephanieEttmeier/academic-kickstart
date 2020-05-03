@@ -310,7 +310,7 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 3
   
-  [menu.main]]
+  [[menu.main]]
   name = "Policy Papers"
   url = "#policy_papers"
   weight = 4
