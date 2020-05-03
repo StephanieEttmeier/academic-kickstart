@@ -17,13 +17,8 @@ weight = 45
 **Transfer, Transfer, Transfer**
 
 * Ein Corona-Beitrag
+
 [I'm a link](https://voxeu.org/article/covid-19-economic-policy-and-market-expectations)
 
 
-* Bayesian DSGE Model Estimation (Ph.D.)
-* Dynamic Macroeconomics (M.Sc. / Ph.D.)
-* Interactions of Fiscal and Monetary Policy (M.Sc.)
-* Introduction into Quantitative Macroeconomics (B.Sc.)
-* Monetary Economics (B.Sc. / M.Sc.)
-* Monetary Macro and Beyond: Faust II (B.Sc.)
-* Topics in Macroeconomics (Ph.D.)
+
