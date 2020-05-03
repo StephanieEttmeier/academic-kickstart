@@ -1,33 +1,26 @@
 +++
-# Selected Publications widget.
-# This widget displays publications from `content/publication/` which have
-# `selected = true` in their `+++` front matter.
-widget = "publications_selected"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
 active = true
 date = 2016-04-20T00:00:00
 
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Policy Papers"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 45
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-list_format = 0
-
-# Filter by publication type.
-# -1: Any
-#  0: Uncategorized
-#  1: Conference proceedings
-#  2: Journal
-#  3: Work in progress
-#  4: Technical report
-#  5: Book
-#  6: Book chapter
-publication_type = "-1"
 +++
+**Past Teaching**
+
+* Applied Macroeconometrics (B.Sc. / M.Sc.)
+* Bayesian DSGE Model Estimation (Ph.D.)
+* Dynamic Macroeconomics (M.Sc. / Ph.D.)
+* Interactions of Fiscal and Monetary Policy (M.Sc.)
+* Introduction into Quantitative Macroeconomics (B.Sc.)
+* Monetary Economics (B.Sc. / M.Sc.)
+* Monetary Macro and Beyond: Faust II (B.Sc.)
+* Topics in Macroeconomics (Ph.D.)
