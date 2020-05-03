@@ -10,7 +10,7 @@ title = "Policy Papers"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 25
+weight = 40
 
 # List format.
 #   0 = Simple
