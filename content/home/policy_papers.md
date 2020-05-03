@@ -17,8 +17,7 @@ weight = 45
 **Transfer, Transfer, Transfer**
 
 * Applied Macroeconometrics (B.Sc. / M.Sc.)
-url = "https://voxeu.org/article/covid-19-economic-policy-and-market-expectations"
-label = "Get Started"
+[I'm a link](https://www.google.com)
 
 
 * Bayesian DSGE Model Estimation (Ph.D.)
