@@ -80,7 +80,9 @@ enableGitInfo = false
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  # Enable/disable map in Contact widget.
+  # Enable/disable 
+  
+  in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
   # a map provider below.
   # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
@@ -95,7 +97,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 2
   map_api_key = ""
   latitude = "52.512269"
   longitude = "13.388648"
@@ -307,11 +309,16 @@ enableGitInfo = false
   name = "Working Paper"
   url = "#publications_selected"
   weight = 3
+  
+  [menu.main]]
+  name = "Policy Papers"
+  url = "#policy_papers"
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 4
+  weight = 5
 
 #[[menu.main]]
  # name = "Tutorials"
@@ -321,7 +328,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
