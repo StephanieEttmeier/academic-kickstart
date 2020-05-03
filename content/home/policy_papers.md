@@ -16,7 +16,7 @@ weight = 45
 +++
 **Transfer, Transfer, Transfer**
 
-* Applied Macroeconometrics (B.Sc. / M.Sc.)\n
+* Ein Corona-Beitrag
 [I'm a link](https://voxeu.org/article/covid-19-economic-policy-and-market-expectations)
 
 
