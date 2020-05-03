@@ -17,6 +17,9 @@ weight = 45
 **Past Teaching**
 
 * Applied Macroeconometrics (B.Sc. / M.Sc.)
+url = "https://voxeu.org/article/covid-19-economic-policy-and-market-expectations"
+
+
 * Bayesian DSGE Model Estimation (Ph.D.)
 * Dynamic Macroeconomics (M.Sc. / Ph.D.)
 * Interactions of Fiscal and Monetary Policy (M.Sc.)
